@@ -7,4 +7,4 @@ It is not exhaustive. It is vendor-neutral. The key requirement for a product be
 
 ## Product Categories
 
-#NGFW.md Next Generation Firewalls
+[NGFW.md] Next Generation Firewalls
