@@ -7,7 +7,8 @@ It is not exhaustive. It is vendor-neutral. The key requirement for a product be
 
 ## Product Categories
 
-* [Asset Management](AssetMgmt.md) (note this is distinct from network asset detection)
+* [Asset Management](AssetMgmt.md)
+* [Endpoint Protection](EndpointProtection.md)
 * [Next Generation Firewalls](NGFW.md)
 * [Network Anomaly Detection](NAD.md)
 * [USB Sheep-Dip Stations](USBSheepDip.md)
