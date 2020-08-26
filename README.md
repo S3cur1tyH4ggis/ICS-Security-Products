@@ -15,6 +15,7 @@ It is not exhaustive. It is vendor-neutral. The key requirement for a product be
 ### Protect
 
 * [Endpoint Protection](EndpointProtection.md)
+* [Industrial Firewalls](IndustrialFirewalls.md)
 * [Next Generation Firewalls](NGFW.md)
 * [Diodes & Unidirectional Security Gateways](DiodesGateways.md)
 
