@@ -10,6 +10,7 @@ It is not exhaustive. It is vendor-neutral. The key requirement for a product be
 ### Identify
 
 * [Asset Management](AssetMgmt.md)
+* [Risk Management](RiskMgmt.md)
 
 ### Protect
 
