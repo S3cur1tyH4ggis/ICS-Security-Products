@@ -23,7 +23,8 @@ It is not exhaustive. It is vendor-neutral. The key requirement for a product be
 
 * [Network Anomaly Detection](NAD.md)
 * [USB Sheep-Dip Stations](USBSheepDip.md)
-* [Logging](Logging.md)
+* [Logging and Monitoring](Logging.md)
+* [Vulnerability Scanning](Vuln.md)
 
 ### Respond
 None yet
