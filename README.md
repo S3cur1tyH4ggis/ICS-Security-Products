@@ -36,6 +36,7 @@ None yet
 
 The following sources may also be useful for finding OT security products:
 
+* [Common Criteria Portal](https://www.commoncriteriaportal.org/products/)
 * [Exida Security Automation Equipment List](https://www.exida.com/SAEL-Security)
 * [ISA Secure Certified Products](https://isasecure.org/en-US/End-Users)
 * [TUV Rhienland Certipedia](https://www.certipedia.com/?locale=en)
