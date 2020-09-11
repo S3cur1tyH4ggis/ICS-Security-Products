@@ -4,7 +4,8 @@ Contributions from the ICS community are encouraged. This is the best way to mak
 
 * Please make contributions either:
   - by using a pull request, or 
-  - messaging me on [Twitter](https://www.twitter.com/rdrothwell)
+  - messaging Rob on [Twitter](https://www.twitter.com/rdrothwell). Discussion and suggestions are welcome.
+* Feel free to raise issue tickets to report bugs, broken links, make suggestions etc.
 * Contributions can be additions, or removals. If you have experience with a product listed and you don't feel it deserves to be listed that is a welcome contribution.
 * The pull request and commit should have a useful title
 
