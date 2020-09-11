@@ -3,30 +3,30 @@ Many discussion threads in ICS security internet forums are people asking for pr
 
 This project is an attempt to solve the problem of knowing where to go to find out about useful products in the ICS security space. It is inspired by @Ka0sKl0wN's list of ICS Security study resources at https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources
 
-It is not exhaustive. It is vendor-neutral. The key requirements for a product being on a list is that ICS/OT defenders find it useful for securing their environments. See the full [inclusion criteria](Criteria.md).
+It is not exhaustive. It is vendor-neutral. The key requirements for a product being on a list is that ICS/OT defenders find it useful for securing their environments. See the full [inclusion criteria](Meta/Criteria.md).
 
-Contributions from the community are [very welcome](Contributing.md).
+Contributions from the community are [very welcome](Meta/Contributing.md).
 
 ## Product Categories
 
 ### Identify
 
-* [Asset Management](AssetMgmt.md)
-* [Risk Management](RiskMgmt.md)
+* [Asset Management](Products/AssetMgmt.md)
+* [Risk Management](Products/RiskMgmt.md)
 
 ### Protect
 
-* [Endpoint Protection](EndpointProtection.md)
-* [Industrial Firewalls](IndustrialFirewalls.md)
-* [Next Generation Firewalls](NGFW.md)
-* [Diodes & Unidirectional Security Gateways](DiodesGateways.md)
+* [Endpoint Protection](Products/EndpointProtection.md)
+* [Industrial Firewalls](Products/IndustrialFirewalls.md)
+* [Next Generation Firewalls](Products/NGFW.md)
+* [Diodes & Unidirectional Security Gateways](Products/DiodesGateways.md)
 
 ### Detect
 
-* [Network Anomaly Detection](NAD.md)
-* [USB Sheep-Dip Stations](USBSheepDip.md)
-* [Logging and Monitoring](Logging.md)
-* [Vulnerability Scanning](Vuln.md)
+* [Network Anomaly Detection](Products/NAD.md)
+* [USB Sheep-Dip Stations](Products/USBSheepDip.md)
+* [Logging and Monitoring](Products/LoggingMonitoring.md)
+* [Vulnerability Scanning](Products/Vuln.md)
 
 ### Respond
 None yet
@@ -46,4 +46,4 @@ The following sources may also be useful for finding OT security products:
 
 
 ## Credits
-The [credits](Credits.md) page lists the people who have kindly contributed to this project.
+The [credits](Meta/Credits.md) page lists the people who have kindly contributed to this project.
