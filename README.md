@@ -3,7 +3,9 @@ Many discussion threads in ICS security internet forums are people asking for pr
 
 This project is an attempt to solve the problem of knowing where to go to find out about useful products in the ICS security space. It is inspired by @Ka0sKl0wN's list of ICS Security study resources at https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources
 
-It is not exhaustive. It is vendor-neutral. The key requirements for a product being on a list is that ICS/OT defenders find it useful for securing their environments, it is available (no vapourware or obsolete products), and it is from a reputable source.
+It is not exhaustive. It is vendor-neutral. The key requirements for a product being on a list is that ICS/OT defenders find it useful for securing their environments. See the full [inclusion criteria](Criteria.md).
+
+Contributions from the community are [very welcome](Contributing.md).
 
 ## Product Categories
 
