@@ -1,11 +1,11 @@
-# ICS-Security-Products
+# ICS Security Products
 Many discussion threads in ICS security internet forums are people asking for product recommendations. There is normally good response to this type of posts, but they all exist in little silos, dotted around the interent which makes them hard to find.
 
 This project is an attempt to solve the problem of knowing where to go to find out about useful products in the ICS security space. It is inspired by @Ka0sKl0wN's list of ICS Security study resources at https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources
 
-It is not exhaustive. It is vendor-neutral. The key requirements for a product being on a list is that ICS/OT defenders find it useful for securing their environments. See the full [inclusion criteria](Meta/Criteria.md).
+The purpose of this project is to list ICS security products as a community resource. Please [contribute](Meta/Contributing.md) if you have something useful to add.
 
-Contributions from the community are [very welcome](Meta/Contributing.md).
+The lists of products are not (yet) exhaustive. It is vendor-neutral. The key requirements for a product being on a list is that ICS/OT defenders find it useful for securing their environments. See the full [inclusion criteria](Meta/Criteria.md).
 
 ## Product Categories
 
@@ -46,4 +46,4 @@ The following sources may also be useful for finding OT security products:
 
 
 ## Credits
-The [credits](Meta/Credits.md) page lists the people who have kindly contributed to this project.
+The [credits](Meta/Credits.md) page lists the awesome people who have contributed to this project.
