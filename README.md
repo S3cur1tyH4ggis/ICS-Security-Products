@@ -26,6 +26,7 @@ The lists of products are not (yet) exhaustive. It is vendor-neutral. The key re
 * [Network Anomaly Detection](Products/NAD.md)
 * [USB Sheep-Dip Stations](Products/USBSheepDip.md)
 * [Logging and Monitoring](Products/LoggingMonitoring.md)
+* [Search Engines](Products/SearchEngines.md)
 * [Vulnerability Scanning](Products/Vuln.md)
 
 ### Respond
