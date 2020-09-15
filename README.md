@@ -38,11 +38,12 @@ None yet
 
 The following sources may also be useful for finding OT security products:
 
+* [ANSSI Certified Products List](https://www.ssi.gouv.fr/en/products/certified-products/) (France)
 * [Common Criteria Portal](https://www.commoncriteriaportal.org/products/)
 * [Exida Security Automation Equipment List](https://www.exida.com/SAEL-Security)
 * [ISA Secure Certified Products](https://isasecure.org/en-US/End-Users)
 * [TUV Rhienland Certipedia](https://www.certipedia.com/?locale=en)
-* [UK NCSC Certified Products & Services](https://www.ncsc.gov.uk/section/products-services/introduction) 
+* [UK NCSC Certified Products & Services](https://www.ncsc.gov.uk/section/products-services/introduction) (UK)
 
 
 ## Credits
