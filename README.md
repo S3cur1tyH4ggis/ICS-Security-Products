@@ -16,6 +16,7 @@ The lists of products are not (yet) exhaustive. It is vendor-neutral. The key re
 
 ### Protect
 
+* [Physical Port Blockers](Products/PortBlockers.md)
 * [Endpoint Protection](Products/EndpointProtection.md)
 * [Industrial Firewalls](Products/IndustrialFirewalls.md)
 * [Next Generation Firewalls](Products/NGFW.md)
