@@ -11,6 +11,7 @@
 * [Fox IT](https://www.fox-it.com/en/technology/datadiode/for-industrial-control-systems/)
 * [Genua](https://www.genua.de/en/solutions/data-diode-for-industrial-applications.html)
 * [Infodas](https://www.infodas.de/produkte/sdot/)
+* [MB connect line GmbH](https://www.mbconnectline.com/en/produkte/mbnetrokey.html)
 * [Owl Cyberdefence](https://owlcyberdefense.com/)
 * [PA Consulting](https://www.paconsulting.com/services/product-design-and-engineering/data-diode/)
 * [Rovenma](https://www.rovenma.com/kindi-data-diode-devices/)
