@@ -12,10 +12,13 @@ The lists of products are not (yet) exhaustive. It is vendor-neutral. The key re
 ### Identify
 
 * [Asset Management](Products/AssetMgmt.md)
+* [Asset Discovery and Profiling](Products/AssetDiscoveryProfiling.md)
 * [Risk Management](Products/RiskMgmt.md)
 
 ### Protect
 
+* [Identity and Access Management](Products/IAM.md)
+* [Secure Remote Access](Products/RemoteAccess.md)
 * [Physical Port Blockers](Products/PortBlockers.md)
 * [Endpoint Protection](Products/EndpointProtection.md)
 * [Industrial Firewalls](Products/IndustrialFirewalls.md)
