@@ -14,3 +14,4 @@
 * [Rhebo](https://www.rhebo.com)
 * [SCADAfence](https://www.scadafence.com/)
 * [Siga](https://sigasec.com/)
+* [ICS Defense](https://icsdefense.net/)

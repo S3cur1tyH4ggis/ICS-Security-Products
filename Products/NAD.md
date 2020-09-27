@@ -14,6 +14,7 @@
 * [Rhebo](https://www.rhebo.com)
 * [SCADAfence](https://www.scadafence.com/)
 * [Siga](https://sigasec.com/)
+* [ICS Defense](https://icsdefense.net/)
 
 
 Note: Dale Peterson provides a market analysis at https://www.linkedin.com/pulse/ics-detection-market-q2-update-dale-peterson-1c/
