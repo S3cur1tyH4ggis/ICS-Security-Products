@@ -7,6 +7,7 @@
 * [Fortiphyd Systems](https://www.fortiphyd.com/)
 * GE
 * [Honeywell](https://www.honeywellprocess.com/en-US/explore/products/Forge%20Cybersecurity/Pages/default.aspx)
+* [Industrial Defender](https://www.industrialdefender.com/)
 * [Kaspersky](https://ics.kaspersky.com/)
 * [Mission Secure](https://www.missionsecure.com/)
 * [Nozomi](https://www.nozominetworks.com/)
