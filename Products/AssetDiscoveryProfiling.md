@@ -3,9 +3,10 @@
 * [Aperio Systems](https://www.aperio-systems.com/)
 * [Claroty](https://www.claroty.com/)
 * [Cyber-X](https://cyberx.tech/)
-* [Dragos](https://www.dragos.com/)
+* [Dragos](https://www.dragos.com/) - Dragos Platform, CyberLens (free) and Sophia (free)
 * [Fortiphyd Systems](https://www.fortiphyd.com/)
 * GE
+* [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) (free)
 * [Honeywell](https://www.honeywellprocess.com/en-US/explore/products/Forge%20Cybersecurity/Pages/default.aspx)
 * [Industrial Defender](https://www.industrialdefender.com/)
 * [Kaspersky](https://ics.kaspersky.com/)
