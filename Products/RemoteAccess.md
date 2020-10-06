@@ -5,8 +5,10 @@ This sub-category includes products that provide a platform for secure remote ac
 * [Bayshore](https://www.bayshorenetworks.com)
 * Barracuda
 * [Claroty](https://www.claroty.com/)
+* [Dispel](https://dispel.io/)
 * KORE
 * [Owl Cyberdefence](https://owlcyberdefense.com/)
+* [SCADAfence](https://www.scadafence.com/)
 * [Waterfall Security Solutions ](https://waterfall-security.com/)
 
 
