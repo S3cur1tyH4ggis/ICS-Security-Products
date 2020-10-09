@@ -1,6 +1,7 @@
 # Asset discovery and profiling
 
 * [Aperio Systems](https://www.aperio-systems.com/)
+* [Awen Collective](https://www.awencollective.com/)
 * [Claroty](https://www.claroty.com/)
 * [Cyber-X](https://cyberx.tech/)
 * [Dragos](https://www.dragos.com/) - Dragos Platform, CyberLens (free) and Sophia (free)
