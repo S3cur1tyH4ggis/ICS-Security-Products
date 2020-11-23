@@ -14,6 +14,7 @@
 * [Kaspersky](https://ics.kaspersky.com/)
 * [Mission Secure](https://www.missionsecure.com/)
 * [Nozomi](https://www.nozominetworks.com/)
+* [Otorio](https://www.otorio.com)
 * [Radiflow](https://radiflow.com/)
 * [Rhebo](https://www.rhebo.com)
 * [SCADAfence](https://www.scadafence.com/)
