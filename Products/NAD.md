@@ -1,5 +1,7 @@
 # Network Anomaly Detection Vendors
 
+Note there is overlap between this category and [asset discovery and profiling](AssetDiscoveryProfiling.md) tools.
+
 * [Aperio Systems](https://www.aperio-systems.com/)
 * [Claroty](https://www.claroty.com/)
 * [Cyber-X](https://cyberx.tech/)
@@ -15,6 +17,7 @@
 * [Rhebo](https://www.rhebo.com)
 * [SCADAfence](https://www.scadafence.com/)
 * [Siga](https://sigasec.com/)
+* [Verve Industrial Protection](https://verveindustrial.com/)
 
 
 Note: Dale Peterson provides a market analysis at https://www.linkedin.com/pulse/ics-detection-market-q2-update-dale-peterson-1c/
