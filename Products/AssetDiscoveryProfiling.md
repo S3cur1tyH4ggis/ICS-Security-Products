@@ -27,6 +27,7 @@ Note there is overlap between this category, [asset management](AssetMgmt.md) (w
 ## Free Network Asset Identification Tools
 * [CyberLens](https://www.dragos.com/community-tools/) - Free tool from Dragos for network asset identification
 * [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) (free)
+* [NetworkMiner](https://www.netresec.com/?page=networkminer) - NetworkMiner is an open source Network Forensic Analysis Tool (NFAT). [Includes some ICS Asset Inventory capabilities](https://www.netresec.com/?page=Blog&month=2019-01&post=NetworkMiner-2-4-Released)
 * [Scrutiny](https://bayshorenetworks.com/products/scrutiny/) - Free tool from Bayshore Networks for asset identification and data flow mapping
 * [Sophia](https://www.dragos.com/community-tools/) - Free tool from Dragos for networked asset identification and data flow visualisation
 
