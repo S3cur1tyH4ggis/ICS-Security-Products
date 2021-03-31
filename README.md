@@ -12,15 +12,20 @@ The lists of products are not (yet) exhaustive. It is vendor-neutral. The key re
 ### Identify
 
 * [Asset Management](Products/AssetMgmt.md)
+* [Asset Discovery and Profiling](Products/AssetDiscoveryProfiling.md)
+* [Governance](Products/Governance.md)
 * [Risk Management](Products/RiskMgmt.md)
 
 ### Protect
 
+* [Identity and Access Management](Products/IAM.md)
+* [Secure Remote Access](Products/RemoteAccess.md)
 * [Physical Port Blockers](Products/PortBlockers.md)
 * [Endpoint Protection](Products/EndpointProtection.md)
 * [Industrial Firewalls](Products/IndustrialFirewalls.md)
 * [Next Generation Firewalls](Products/NGFW.md)
 * [Diodes & Unidirectional Security Gateways](Products/DiodesGateways.md)
+* [Patch Management](Products/PatchManagement.md)
 
 ### Detect
 
@@ -29,9 +34,10 @@ The lists of products are not (yet) exhaustive. It is vendor-neutral. The key re
 * [Logging and Monitoring](Products/LoggingMonitoring.md)
 * [Search Engines](Products/SearchEngines.md)
 * [Vulnerability Scanning](Products/Vuln.md)
+* [Testing](Products/Testing.md)
 
 ### Respond
-None yet
+* [Incident Response](Products/IncidentResponse.md)
 
 ### Recover
 None yet
