@@ -8,6 +8,7 @@ This sub-category includes products that provide a platform for secure remote ac
 * [Dispel](https://dispel.io/)
 * [eWON](https://www.ewon.biz/)
 * KORE
+* [MB Connect Line GmbH](https://mbconnectline.com/)
 * [Owl Cyberdefence](https://owlcyberdefense.com/)
 * [Phoenix Contact](https://www.phoenixcontact.com/)
 * [SCADAfence](https://www.scadafence.com/)
