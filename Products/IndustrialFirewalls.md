@@ -9,6 +9,7 @@
 * [Endian](https://www.endian.com/)
 * [Fortinet](https://www.fortinet.com/)
 * [Hirschmann](https://www.hirschmann.com/)
+    * [hirschmann eagle](https://www.hirschmann.com/test/)
 * [MB connect line GmbH](https://www.mbconnectline.com/en/produkte/mbnetfix.html)
 * [Moxa](https://www.moxa.com/en/products/industrial-network-infrastructure/secure-routers/secure-routers)
 * [Palo Alto](https://www.paloaltonetworks.com/)
