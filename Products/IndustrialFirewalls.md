@@ -1,6 +1,7 @@
 # Industrial Firewalls
 
 * [Barracuda](https://www.barracuda.com)
+* [Bayshore Networks](https://bayshorenetworks.com)
 * [Belden](http://belden.com/products/industrial/networking/security)
 * [CheckPoint](https://www.checkpoint.com/)
 * [Cisco](https://www.cisco.com/c/en/us/support/security/industrial-security-appliance-3000/model.html)
@@ -14,3 +15,4 @@
 * [Phoenix Contact](https://www.phoenixcontact.com/)
 * [Schweitzer Engineering Laboratories](https://selinc.com/)
 * [Secure Crossing](https://www.securecrossing.com/)
+* [Westermo](https://www.westermo.com)
