@@ -9,6 +9,7 @@ This sub-category includes products that provide a platform for secure remote ac
 * [Endian](https://www.endian.com/)
 * [eWON](https://www.ewon.biz/)
 * KORE
+* [MB Connect Line GmbH](https://mbconnectline.com/)
 * [Owl Cyberdefence](https://owlcyberdefense.com/)
 * [Phoenix Contact](https://www.phoenixcontact.com/)
 * [ProSoft](https://www.prosoft-technology.com/)
