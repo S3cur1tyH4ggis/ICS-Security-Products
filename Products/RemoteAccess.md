@@ -16,6 +16,7 @@ This sub-category includes products that provide a platform for secure remote ac
 * [RedLion](https://www.redlion.net/)
 * [SCADAfence](https://www.scadafence.com/)
 * [Secomea](https://www.secomea.com/)
+* [Sophic](https://wwwiecyber.co.il)
 * [TDI Technologies](https://www.tditechnologies.com/)
 * [Tosibox](https://www.tosibox.com/)
 * [Waterfall Security Solutions](https://waterfall-security.com/)
