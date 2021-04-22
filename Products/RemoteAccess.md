@@ -6,15 +6,19 @@ This sub-category includes products that provide a platform for secure remote ac
 * Barracuda
 * [Claroty](https://www.claroty.com/)
 * [Dispel](https://dispel.io/)
+* [Endian](https://www.endian.com/)
 * [eWON](https://www.ewon.biz/)
 * KORE
 * [Owl Cyberdefence](https://owlcyberdefense.com/)
 * [Phoenix Contact](https://www.phoenixcontact.com/)
+* [ProSoft](https://www.prosoft-technology.com/)
+* [RedLion](https://www.redlion.net/)
 * [SCADAfence](https://www.scadafence.com/)
 * [Secomea](https://www.secomea.com/)
 * [TDI Technologies](https://www.tditechnologies.com/)
 * [Tosibox](https://www.tosibox.com/)
-* [Waterfall Security Solutions ](https://waterfall-security.com/)
+* [Waterfall Security Solutions](https://waterfall-security.com/)
+* [Westermo](https://www.westermo.com/solutions/weconnect)
 
 
 ## Industrial Remote Network Access 
