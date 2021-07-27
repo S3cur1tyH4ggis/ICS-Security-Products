@@ -52,6 +52,7 @@ The following sources may also be useful for finding OT security products:
 * [ISA Secure Certified Products](https://isasecure.org/en-US/End-Users)
 * [TUV Rhienland Certipedia](https://www.certipedia.com/?locale=en)
 * [UK NCSC Certified Products & Services](https://www.ncsc.gov.uk/section/products-services/introduction) (UK)
+* [Gartner OT Security Reviews and Ratings](https://www.gartner.com/reviews/market/operational-technology-security)
 
 
 ## Credits
