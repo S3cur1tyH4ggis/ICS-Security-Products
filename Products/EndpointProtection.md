@@ -6,7 +6,6 @@
 * [Kaspersky](https://ics.kaspersky.com/)
 * [McAfee](https://www.mcafee.com/)
 * [Rhebo - IoT Device Protection](https://rhebo.com/en/our-products/rhebo-iot-device-protection/)
-* [Tanium](https://www.tanium.com/products/tanium-platform/)
 * [Trend Micro](https://www.trendmicro.com/)
 
 ## Application Whitelisting
