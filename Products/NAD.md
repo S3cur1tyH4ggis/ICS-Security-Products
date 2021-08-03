@@ -12,6 +12,7 @@ Note there is overlap between this category and [asset discovery and profiling](
 * [Kaspersky](https://ics.kaspersky.com/)
 * [Mission Secure](https://www.missionsecure.com/)
 * [Nozomi](https://www.nozominetworks.com/)
+* [ntopng](https://www.ntop.org/)
 * [OMICRON](https://www.omicronenergy.com/en/products/stationguard/)
 * [Radiflow](https://radiflow.com/)
 * [Rhebo](https://www.rhebo.com)
