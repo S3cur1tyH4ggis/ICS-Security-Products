@@ -13,6 +13,7 @@ This sub-category includes products that provide a platform for secure remote ac
 * [Owl Cyberdefence](https://owlcyberdefense.com/)
 * [Phoenix Contact](https://www.phoenixcontact.com/)
 * [ProSoft](https://www.prosoft-technology.com/)
+* [Q-net Security](www.qnetsecurity.com/)
 * [RedLion](https://www.redlion.net/)
 * [SCADAfence](https://www.scadafence.com/)
 * [Secomea](https://www.secomea.com/)
