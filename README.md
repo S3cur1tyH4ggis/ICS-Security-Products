@@ -26,6 +26,7 @@ The lists of products are not (yet) exhaustive. It is vendor-neutral. The key re
 * [Next Generation Firewalls](Products/NGFW.md)
 * [Diodes & Unidirectional Security Gateways](Products/DiodesGateways.md)
 * [Patch Management](Products/PatchManagement.md)
+* [SBOM](Products/SBOM.md)
 
 ### Detect
 
