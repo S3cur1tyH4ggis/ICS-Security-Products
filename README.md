@@ -26,6 +26,7 @@ The lists of products are not (yet) exhaustive. It is vendor-neutral. The key re
 * [Next Generation Firewalls](Products/NGFW.md)
 * [Diodes & Unidirectional Security Gateways](Products/DiodesGateways.md)
 * [Patch Management](Products/PatchManagement.md)
+* [SBOM](Products/SBOM.md)
 
 ### Detect
 
@@ -53,6 +54,7 @@ The following sources may also be useful for finding OT security products:
 * [ISA Secure Certified Products](https://isasecure.org/en-US/End-Users)
 * [TUV Rhienland Certipedia](https://www.certipedia.com/?locale=en)
 * [UK NCSC Certified Products & Services](https://www.ncsc.gov.uk/section/products-services/introduction) (UK)
+* [Gartner OT Security Reviews and Ratings](https://www.gartner.com/reviews/market/operational-technology-security)
 
 
 
