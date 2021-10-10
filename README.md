@@ -57,6 +57,7 @@ The following sources may also be useful for finding OT security products:
 * [TRTEST Test and Evaluation](https://tr-test.com.tr/trtest/views/sertifikalarimiz.html) (Turkey)
 * [TUV Rhienland Certipedia](https://www.certipedia.com/?locale=en)
 * [UK NCSC Certified Products & Services](https://www.ncsc.gov.uk/section/products-services/introduction) (UK)
+* [UL Certified Products List](https://iq.ulprospector.com/en/_?qm=10005:766&p=10005)
 * [Gartner OT Security Reviews and Ratings](https://www.gartner.com/reviews/market/operational-technology-security)
 
 ## Credits
