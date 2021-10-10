@@ -51,6 +51,7 @@ The following sources may also be useful for finding OT security products:
 * [Common Criteria Portal](https://www.commoncriteriaportal.org/products/)
 * [Exida Security Automation Equipment List](https://www.exida.com/SAEL-Security)
 * [German IT Security Certificates](https://www.bsi.bund.de/EN/Topics/Certification/certification_node.html) (Germany)
+* [OC-CCN Certified Products List](https://oc.ccn.cni.es/en/certified-products/certified-products) (Spain)
 * [ISA Secure Certified Products](https://isasecure.org/en-US/End-Users)
 * [TRTEST Test and Evaluation](https://tr-test.com.tr/trtest/views/sertifikalarimiz.html) (Turkey)
 * [TUV Rhienland Certipedia](https://www.certipedia.com/?locale=en)
