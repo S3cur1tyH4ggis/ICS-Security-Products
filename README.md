@@ -18,24 +18,25 @@ The lists of products are not (yet) exhaustive. It is vendor-neutral. The key re
 
 ### Protect
 
-* [Identity and Access Management](Products/IAM.md)
-* [Secure Remote Access](Products/RemoteAccess.md)
-* [Physical Port Blockers](Products/PortBlockers.md)
-* [Endpoint Protection](Products/EndpointProtection.md)
-* [Industrial Firewalls](Products/IndustrialFirewalls.md)
-* [Next Generation Firewalls](Products/NGFW.md)
 * [Diodes & Unidirectional Security Gateways](Products/DiodesGateways.md)
+* [Endpoint Protection](Products/EndpointProtection.md)
+* [Identity and Access Management](Products/IAM.md)
+* [Firewalls - Industrial](Products/IndustrialFirewalls.md)
+* [Firewalls - Next Generation](Products/NGFW.md)
 * [Patch Management](Products/PatchManagement.md)
+* [Physical Port Blockers](Products/PortBlockers.md)
+* [Remote Access](Products/RemoteAccess.md)
 * [SBOM](Products/SBOM.md)
 
 ### Detect
 
-* [Network Anomaly Detection](Products/NAD.md)
-* [USB Sheep-Dip Stations](Products/USBSheepDip.md)
 * [Logging and Monitoring](Products/LoggingMonitoring.md)
+* [Network Anomaly Detection](Products/NAD.md)
 * [Search Engines](Products/SearchEngines.md)
-* [Vulnerability Scanning](Products/Vuln.md)
+* [Serial Connection Monitoring](Products/Serial.md)
 * [Testing](Products/Testing.md)
+* [USB Sheep-Dip Stations](Products/USBSheepDip.md)
+* [Vulnerability Scanning](Products/Vuln.md)
 
 ### Respond
 * [Incident Response](Products/IncidentResponse.md)
