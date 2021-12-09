@@ -3,6 +3,7 @@
 Note there is overlap between this category, [asset management](AssetMgmt.md) (which frequently offer asset discovery features) and often [network anomaly detection](NAD.md) tools.
 
 * [Aperio Systems](https://www.aperio-systems.com/)
+* [Armis](https://www.armis.com/)
 * [Awen Collective](https://www.awencollective.com/)
 * [Claroty](https://www.claroty.com/)
 * [Cyber-X](https://cyberx-labs.com/)
