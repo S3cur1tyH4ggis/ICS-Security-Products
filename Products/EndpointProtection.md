@@ -11,7 +11,9 @@
 ## Application Whitelisting
 
 * [McAfee Application & Change Control](https://www.mcafee.com/enterprise/en-sg/products/application-change-control.html)
-* [Trend Micro - SafeLock](https://www.trendmicro.com.my/my/enterprise/tmsl/index.html)
+* Trend Micro
+   * [TXOne Stellar Enforce](https://www.trendmicro.com/en_us/business/products/iot/industrial-endpoint-security/txone-stellar-enforce.html)
+   * [SafeLock](https://www.trendmicro.com.my/my/enterprise/tmsl/index.html)
 * Microsoft Windows
    * [DeviceGuard](https://docs.microsoft.com/en-us/mem/configmgr/protect/deploy-use/use-device-guard-with-configuration-manager)
    * [AppLocker](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/applocker-overview)
