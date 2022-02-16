@@ -6,8 +6,9 @@ Note there is overlap between this category, [asset management](AssetMgmt.md) (w
 * [Armis](https://www.armis.com/)
 * [Awen Collective](https://www.awencollective.com/)
 * [Claroty](https://www.claroty.com/)
-* [Cyber-X](https://cyberx-labs.com/)
+* [Microsoft Defender for IoT](https://azure.microsoft.com/en-us/services/iot-defender/#features) - formerly CyberX
 * [Dragos Platform](https://www.dragos.com/)
+* [Forescout](https://www.forescout.com/)
 * [Fortiphyd Systems](https://www.fortiphyd.com/)
 * GE
 * [Honeywell](https://www.honeywellprocess.com/en-US/explore/products/Forge%20Cybersecurity/Pages/default.aspx)
@@ -22,12 +23,15 @@ Note there is overlap between this category, [asset management](AssetMgmt.md) (w
 * [Radiflow](https://radiflow.com/)
 * [Rhebo](https://www.rhebo.com)
 * [SCADAfence](https://www.scadafence.com/)
+* [tenable.ot](https://www.tenable.com/products/tenable-ot)  - formerly Indegy
 * [Verve Industrial Protection](https://verveindustrial.com/)
 
 
 ## Free Network Asset Identification Tools
 * [CyberLens](https://www.dragos.com/community-tools/) - Free tool from Dragos for network asset identification
 * [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) (free)
+* [Guardian Community Edition](https://community.nozominetworks.com/) Free tool from Nozomi Networks for Asset inventory, and Network mapping and visualization
+* [Malcolm](https://github.com/cisagov/Malcolm) - Malcolm from CISA is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs. Good support for ICS protocls.
 * [NetworkMiner](https://www.netresec.com/?page=networkminer) - NetworkMiner is an open source Network Forensic Analysis Tool (NFAT). [Includes some ICS Asset Inventory capabilities](https://www.netresec.com/?page=Blog&month=2019-01&post=NetworkMiner-2-4-Released)
 * [Scrutiny](https://bayshorenetworks.com/products/scrutiny/) - Free tool from Bayshore Networks for asset identification and data flow mapping
 * [Sophia](https://www.dragos.com/community-tools/) - Free tool from Dragos for networked asset identification and data flow visualisation
