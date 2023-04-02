@@ -19,6 +19,7 @@ Note there is overlap between this category and [asset discovery and profiling](
 * [SCADAfence](https://www.scadafence.com/)
 * [Siga](https://sigasec.com/)
 * [Verve Industrial Protection](https://verveindustrial.com/)
+* [Darktrace](https://darktrace.com/)
 
 
 Note: Dale Peterson provides a market analysis at https://www.linkedin.com/pulse/ics-detection-market-q2-update-dale-peterson-1c/
