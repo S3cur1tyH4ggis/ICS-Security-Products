@@ -2,4 +2,4 @@
 
 * [Bayshore Networks](https://bayshorenetworks.com) OTfuse
 * [txOne Networks](https://txone-networks.com) EdgeIPS
-* [UserGate](https://usergate.com) UserGate
+* [UserGate](https://usergate.com) NGFW
