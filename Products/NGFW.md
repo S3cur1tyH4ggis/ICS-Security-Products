@@ -6,3 +6,4 @@
 * [Fortinet](https://www.fortinet.com/)
 * [Palo Alto](https://www.paloaltonetworks.com/)
 * [txOne Networks](https://txone-networks.com)
+* [UserGate](https://usergate.com) UserGate
