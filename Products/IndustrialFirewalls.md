@@ -15,6 +15,7 @@
     * [Industrial IoT Security Gateways](https://www.endian.com/products/secure-digital-platform/industrial-iot-gateways/)
 * [Fortinet](https://www.fortinet.com/)
     * [FortiGate Rugged Series 30D/35D/60D/60F/90D](https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/FortiGate_Rugged_Series.pdf)
+* [UserGate](https://usergate.com)
 * [Genua - Genuwall](https://www.genua.de/en/it-security-solutions/industrial-firewall-genuwall)
 * [Hirschmann (A Belden Brand)](https://www.hirschmann.com/)
     * [Eagle ONE](https://www.hirschmann.com/en/Hirschmann_Produkte/Industrial_Ethernet/security-firewall/EAGLE_One_Security_Router_/index.phtml)
